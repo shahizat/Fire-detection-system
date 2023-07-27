@@ -7,7 +7,7 @@ The fire detection system utilizes the NVIDIA Omniverse Replicator to create a s
 
 
 ### Usage
-* Download dataset from [here](https://drive.google.com/file/d/1UlHIFFVT-21cCprjVDTyuMvtNZRcX2ds/view?usp=sharing).
+* Download the dataset from [here](https://drive.google.com/file/d/1UlHIFFVT-21cCprjVDTyuMvtNZRcX2ds/view?usp=sharing).
 
 
 
